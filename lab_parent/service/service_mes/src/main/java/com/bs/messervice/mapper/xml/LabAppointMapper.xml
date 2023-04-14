@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.bs.messervice.mapper.LabAppointMapper">
+<!--    <resultMap id="listItemPrice1Vo" type="io.cj.supply_chain.vo.supplier.ListItemPricePageList1Vo">-->
+<!--        <id property="productItemId" column="product_item_id" />-->
+<!--        <result property="attributeValue" column="attribute_value" typeHandler="io.cj.supply_chain.unitize.typehandler.Json2ListStringJacksonTypeHandler" />-->
+<!--    </resultMap>-->
+
+<!--    <select id="listItemPrice1Vo" resultMap="listItemPrice1Vo">-->
+<!--         -->
+<!--    </select>-->
+</mapper>

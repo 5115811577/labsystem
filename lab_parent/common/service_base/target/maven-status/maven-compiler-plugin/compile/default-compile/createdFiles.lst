@@ -1,0 +1,4 @@
+com\bs\base\exceptionhandler\LabException.class
+com\bs\base\exceptionhandler\GlobalExceptionHandler.class
+com\bs\base\hander\MyMetaObjectHandler.class
+com\bs\base\SwaggerConfig.class
